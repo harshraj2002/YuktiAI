@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![Ollama](https://img.shields.io/badge/Ollama-LLaMA_3.2-orange?style=for-the-badge)
 
-**Your Intelligent AI Assistant**
+**An Intelligent AI Assistant**
 
 </div>
 
