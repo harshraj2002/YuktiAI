@@ -1,6 +1,6 @@
 # 🤖 YuktiAI
 
-Intelligent AI Assistant
+**An Intelligent AI Assistant*
 
 
 <div align="center">
@@ -8,8 +8,6 @@ Intelligent AI Assistant
 ![YuktiAI](https://img.shields.io/badge/YuktiAI-v1.0.0-blue?style=for-the-badge&logo=robot)
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![Ollama](https://img.shields.io/badge/Ollama-LLaMA_3.2-orange?style=for-the-badge)
-
-**An Intelligent AI Assistant**
 
 </div>
 
