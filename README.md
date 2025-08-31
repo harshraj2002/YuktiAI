@@ -1,5 +1,6 @@
 # 🤖 YuktiAI
-    - Intelligent AI Assistant
+
+Intelligent AI Assistant
 
 
 <div align="center">
