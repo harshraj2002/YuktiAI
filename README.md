@@ -147,4 +147,3 @@ This project is licensed under the MIT License.
 *Empowering AI without compromising privacy*
 
 </div>
-```
