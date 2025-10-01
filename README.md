@@ -148,6 +148,3 @@ This project is licensed under the MIT License.
 
 </div>
 ```
-
-
-The document is concise yet comprehensive, perfect for developers who want to quickly understand and deploy YuktiAI! 🚀
